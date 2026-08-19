@@ -113,7 +113,6 @@ It records:
 
 ## 🔄 Reporting Workflow
 
-```text
 Operational Sales Data
           ↓
       Excel Table
@@ -129,6 +128,7 @@ Operational Sales Data
        Dashboard
           ↓
  Weekly Status Snapshot
+
 
 ## 👨‍💻 Author
 
