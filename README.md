@@ -113,13 +113,14 @@ It records:
 
 ## 🔄 Reporting Workflow
 
+```text
 Operational Sales Data
           ↓
       Excel Table
           ↓
       Power Query
           ↓
-    Refresh Data Button
+   REFRESH DATA Button
           ↓
       Pivot Tables
           ↓
@@ -127,8 +128,10 @@ Operational Sales Data
           ↓
        Dashboard
           ↓
- Weekly Status Snapshot
+ Weekly Status Report
+```
 
+---
 
 ## 👨‍💻 Author
 
@@ -139,5 +142,11 @@ Aspiring Data Analyst / MIS Executive
 ### Skills Demonstrated
 
 `Excel` · `Power Query` · `Pivot Tables` · `XLOOKUP` · `VBA` · `Data Analysis` · `MIS Reporting`
+
+---
+
+
+
+
 
 
