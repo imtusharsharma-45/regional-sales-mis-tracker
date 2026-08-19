@@ -130,7 +130,17 @@ Operational Sales Data
           ↓
  Weekly Status Report
 ```
+## 📊 Dashboard
 
+The dashboard provides a management-level view of sales performance.
+
+![Regional Sales MIS Dashboard](dashboard.png)
+
+### KPI Cards
+
+- **Total Sales**
+- **Growth %**
+- **Top Region**
 ---
 
 ## 👨‍💻 Author
