@@ -143,6 +143,14 @@ The dashboard provides a management-level view of sales performance.
 - **Top Region**
 ---
 
+### Pivot Summary
+
+The Pivot Summary provides region-wise and month-wise target versus actual sales performance.
+
+![Pivot Summary](pivot_summary.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Tushar Sharma**
