@@ -129,3 +129,15 @@ Operational Sales Data
        Dashboard
           ↓
  Weekly Status Snapshot
+
+## 👨‍💻 Author
+
+**Tushar Sharma**
+
+Aspiring Data Analyst / MIS Executive
+
+### Skills Demonstrated
+
+`Excel` · `Power Query` · `Pivot Tables` · `XLOOKUP` · `VBA` · `Data Analysis` · `MIS Reporting`
+
+
