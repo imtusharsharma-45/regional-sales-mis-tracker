@@ -141,9 +141,10 @@ Aspiring Data Analyst / MIS Executive
 
 ### Skills Demonstrated
 
-`Excel` · `Power Query` · `Pivot Tables` · `XLOOKUP` · `VBA` · `Data Analysis` · `MIS Reporting`
+`Excel` · `Power Query` · `Pivot Tables` · `XLOOKUP` · `Index Match` · `VBA` · `Data Analysis` · `MIS Reporting`
 
 ---
+
 
 
 
