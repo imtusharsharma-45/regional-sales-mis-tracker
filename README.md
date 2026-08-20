@@ -151,6 +151,14 @@ The Pivot Summary provides region-wise and month-wise target versus actual sales
 
 ---
 
+### Weekly Status Report
+
+The Weekly Status Report maintains a historical snapshot of weekly sales performance, including achievement, growth, top region, exceptions, observations, and required actions.
+
+![Weekly Status Report](weekly_status.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Tushar Sharma**
